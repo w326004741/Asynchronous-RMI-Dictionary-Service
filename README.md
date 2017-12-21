@@ -8,6 +8,8 @@
 ## Overview
 
 
+[Project Detail](https://github.com/w326004741/Asynchronous-RMI-Dictionary-Service/blob/master/dsAssignment2017.pdf)
+
 
 ## How to use this repostory:
 1. Click Clone or download and Copy to clipboard
