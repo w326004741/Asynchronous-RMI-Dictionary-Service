@@ -39,6 +39,7 @@ cd your folder(Asynchronous-RMI-Dictionary-Service)
 
 
 ## About Project:
+[Project Document](https://github.com/w326004741/Asynchronous-RMI-Dictionary-Service/wiki/Project-Document)
 #### Before you start the project, you need to first add Tomcat server to your Eclipse Project:
 ```
 1. Go to the “Servers” tab in Eclipse, and click the link to create a new server. 
