@@ -49,7 +49,7 @@ cd your folder(Asynchronous-RMI-Dictionary-Service)
    should be displayed on the “Servers” tab.
 ```
 
-#### When you need to add dictionary content to `dic.txt`, words and paraphrases need to be separated by `","` before .  
+#### When you need to add dictionary content to `dic.txt`, words and paraphrases need to be separated by `","`.  
 ```
 e.g.  China,a coutry in East Asia.
 ```
