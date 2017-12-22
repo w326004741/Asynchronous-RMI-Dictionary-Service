@@ -1,0 +1,52 @@
+﻿# All words explain from Cambridge Dictionary.
+#dictionaries
+China,a country in East Asia.
+china,clay of a high quality that is shaped and then heated to make it permanently hard, or objects made from this, such as cups and plates.
+pottery,the activity or skill of making clay objects by hand.
+fire,(material that is in) the state of burning that produces flames that send out heat and light, and might produce smoke.
+galaxy,This article is about the astronomical structure.
+approach,to come near or nearer to something or someone in space, time, quality, or amount.
+influence,the power to have an effect on people or things, or a person or thing that is able to do this.
+either,used in negative sentences instead of "also" or "too".
+access,the method or possibility of getting near to a place or person.
+sentence,a group of words, usually containing a verb, that expresses a thought in the form of a statement, question, instruction, or exclamation and starts with a capital letter when written.
+perspective,a particular way of considering something.
+love,to like another adult very much and be romantically and sexually attracted to them, or to have strong feelings of liking a friend or person in your family.
+attitude,a feeling or opinion about something or someone, or a way of behaving that is caused by this.
+cabal,a small group of people who plan secretly to take action, especially political action.
+alliance,a group of countries, political parties, or people who have agreed to work together because of shared interests or aims.
+superman,a man who has greater strength, ability, intelligence, etc. than other men.
+superhero,a character in a film or story who has special strength and uses it to do good things and help other people.
+superhuman,having more powers than, or seeming outside the powers of, a human.
+spark,a very small piece of fire that flies out from something that is burning, or one that is made by rubbing two hard things together, or a flash of light made by electricity.
+software,the instructions that control what a computer does; computer programs.
+music,a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it.
+blues,a type of slow, sad music, originally from the southern US, in which the singer typically sings about their difficult life or bad luck in love
+jazz,a type of modern music originally developed by African-Americans, with a rhythm in which the strong notes often come before the beat. Jazz is usually improvised (= invented as it is played).
+funk,a style of music, usually for dancing to, with a strong rhythm based on jazz and a tune that repeats.
+hip-hop,a type of popular music in which the words are spoken rather than sung and the subject of the songs is often politics or society.
+rap,a type of popular music with a strong rhythm in which the words are spoken, not sung.
+hard rock,a type of rock music with a strong beat in which drums and electric guitars are played very loudly.
+pop,formal popular music modern popular music, usually with a strong beat, created with electrical or electronic equipment, and easy to listen to and remember.
+rocker,a singer of rock music.
+reggae,a type of popular music from Jamaica, with a strong second and fourth beat.
+a cappella,sung by a group of people without any musical instruments.
+EDM,electronic dance music.
+beat,in music, a regular emphasis, or a place in the music where such an emphasis is expected.
+swag,a fashionable and confident appearance or way of behaving.
+fireman,a man whose job is to stop unwanted fires from burning.
+boxing,a sport in which two competitors fight by hitting each other with their hands.
+Christmas,(the period just before and after) 25 December, a Christian holy day that celebrates the birth of Jesus Christ.
+turkey,a large bird grown for its meat on farms.
+novel,a long printed story about imaginary characters and events.
+Ireland,a country in western Europe occupying the southern part of the island of Ireland.
+piano,a large musical instrument with a row of black and white keys that are pressed to play notes.
+violin,a wooden musical instrument with four strings that is held against the neck and played by moving a bow across the strings.
+instrument,an object, such as a piano, guitar, or drum, that is played to produce musical sounds.
+vuvuzela,a long simple musical instrument that produces a single loud note and is blown by South African football supporters at games.
+movie,a film shown in a cinema or on television and often telling a story.
+diamond,a transparent, extremely hard precious stone that is used in jewellery, and in industry for cutting hard things.
+Ping-Pong,a brand name for table tennis.
+basketball,(a ball used in) a game played by two teams of five players who score points by throwing a large ball through an open net hanging from a metal ring.
+tennis,a game played between two or four people on a special playing area that involves hitting a small ball across a central net using a racket.
+soccer,a game played between two teams of eleven people, where each team tries to win by kicking a ball into the other team's goal.
